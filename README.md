@@ -15,7 +15,8 @@ A realistic recoil system for FiveM that adjusts weapon recoil depending on the 
 1. Download or clone this repository into your FiveM resources folder.  
 2. Add the resource to your `server.cfg`:  
    ```cfg
-   ensure recoil
+   ensure dny_recoil
 
 *Made with ❤️*
+
 
